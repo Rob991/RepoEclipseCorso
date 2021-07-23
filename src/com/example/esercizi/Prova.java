@@ -30,9 +30,9 @@ public class Prova {
 		log.error("Messaggio di error");
 		log.fatal("Messaggio di fatal");
 	}
-	
+
 	private void doSomething() {
-		
+
 	}
 
 }

@@ -1,6 +1,6 @@
-package com.example.dbaccess.database;
+package com.example.dbaccess.exception;
 
-public class EmployeeException extends Exception {
+public class EmployeeException extends RuntimeException {
 
 	private static final long serialVersionUID = 1L;
 

@@ -10,7 +10,7 @@ public class ProvaConnessioneOracle {
 	public static void main(String[] args) throws Exception {
 
 		// 1)Caricamento del driver
-		
+
 		Class.forName("oracle.jdbc.driver.OracleDriver"); // Richiesto solo per versione < 4
 
 		String username = "hr";

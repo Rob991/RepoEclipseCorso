@@ -1,6 +1,6 @@
-package com.example.dbaccess.database;
+package com.example.dbaccess.exception;
 
-public class ClientiException extends Exception {
+public class ClientiException extends RuntimeException {
 
 	private static final long serialVersionUID = 1L;
 
